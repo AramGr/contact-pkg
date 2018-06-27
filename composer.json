@@ -1,0 +1,19 @@
+{
+    "name": "aram/contact",
+    "description": "This will send email to admin",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aram",
+            "email": "a.h.grigoryan@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aram\\Contact\\": "src/"
+        }
+    }
+}
